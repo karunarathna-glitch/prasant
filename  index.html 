@@ -3,7 +3,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
-  <title>最終発表 用 レイアウト</title>
+  <title><ruby>最終<rt>さいしゅう</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby> 用 レイアウト</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -12,7 +12,7 @@
     <!-- 上段：プログラム名・開発者 -->
     <header class="top-section">
       <h1 class="program-title">ඉතිරි අවස්ථා</h1>
-      <p class="developer-name">開発者：25S08 yehan</p>
+      <p class="developer-name"><ruby>開発者<rt>かいはつしゃ</rt></ruby>：25S08 yehan</p>
     </header>
 
     <!-- 中段：左＝動作イメージ画像 / 右＝概要・アピールポイント -->
@@ -20,7 +20,7 @@
 
       <!-- 左：動作イメージ画像（images/image.png を表示） -->
       <section class="preview-area">
-        <h2 class="section-title">プログラム動作イメージ</h2>
+        <h2 class="section-title">プログラム<ruby>動作<rt>どうさ</rt></ruby>イメージ</h2>
         <div class="preview-box">
           <!-- 各自が images フォルダに image.png ファイルを保存 -->
           <img
@@ -33,20 +33,19 @@
 
       <!-- 右：概要とアピールポイント -->
       <section class="description-area">
-        <h2 class="section-title">プログラム概要とアピールポイント</h2>
+        <h2 class="section-title">プログラム<ruby>概要<rt>がいよう</rt></ruby>とアピールポイント</h2>
         <div class="description-box">
-          <h3>概要</h3>
-          <p>3段階の速度から自分にぴったりの難易度を選んで遊べるスネークゲームです。<br />
-失敗しても10回まで挑戦できるライフ制なので、初心者でも安心。<br />
-操作方法も常に表示されており、手軽に高得点を目指して楽しめます。<br />
-            
+          <h3><ruby>概要<rt>がいよう</rt></ruby></h3>
+          <p>3<ruby>段階<rt>だんかい</rt></ruby>の<ruby>速度<rt>そくど</rt></ruby>から<ruby>自分<rt>じぶん</rt></ruby>にぴったりの<ruby>難易度<rt>なんいど</rt></ruby>を選んで遊べるスネークゲームです。<br />
+<ruby>失敗<rt>しっぱい</rt></ruby>しても10<ruby>回<rt>かい</rt></ruby>まで<ruby>挑戦<rt>ちょうせん</rt></ruby>できるライフ<ruby>制<rt>せい</rt></ruby>なので、<ruby>初心者<rt>しょしんしゃ</rt></ruby>でも<ruby>安心<rt>あんしん</rt></ruby>。<br />
+<ruby>操作<rt>そうさ</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>も<ruby>常<rt>つね</rt></ruby>に<ruby>表示<rt>ひょうじ</rt></ruby>されており、<ruby>手軽<rt>てがる</rt></ruby>に<ruby>高得点<rt>こうとくてん</rt></ruby>を<ruby>目指<rt>めざ</rt></ruby>して<ruby>楽<rt>たの</rt></ruby>しめます。<br />
           </p>
 
           <h3>アピールポイント</h3>
           <ul>
-            <li>自分のレベルに合う速度が選べる</li>
-            <li>挫折しないよう10回まで再挑戦できる</li>
-            <li>操作を迷わないよう説明が常に見える）</li>
+            <li><ruby>自分<rt>じぶん</rt></ruby>のレベルに合う<ruby>速度<rt>そくど</rt></ruby>が選べる</li>
+            <li><ruby>挫折<rt>ざせつ</rt></ruby>しないよう10<ruby>回<rt>かい</rt></ruby>まで<ruby>再挑戦<rt>さいちょうせん</rt></ruby>できる</li>
+            <li><ruby>操作<rt>そうさ</rt></ruby>を迷わないよう<ruby>説明<rt>せつめい</rt></ruby>が<ruby>常<rt>つね</rt></ruby>に見える</li>
           </ul>
         </div>
       </section>
